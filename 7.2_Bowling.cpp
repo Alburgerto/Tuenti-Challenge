@@ -3,7 +3,7 @@
 #include <vector>
 #include <sstream>
 
-/*int main() {
+int main() {
 	std::ifstream input("Files/testInput_bowling.txt");
 	std::ofstream output("Files/testOutput_bowling.txt");
 
@@ -48,4 +48,4 @@
 		}
 		output << std::endl;
 	}
-} */
+} 
