@@ -2,7 +2,7 @@
 #include <fstream>
 #include <sstream>
 
-/*int main() {
+int main() {
 	int cases, vertical, horizontal, holes;
 	std::string line;
 	std::ifstream input("Files/testInput_waffles.txt");
@@ -17,4 +17,4 @@
 		output << "Case #" << i << ": " << holes << std::endl;
 	}
 	return 0;
-}*/
+}
